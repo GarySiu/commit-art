@@ -23,6 +23,6 @@ to experiment with.
 
 Worked out pretty nicely. Now I can stop feeling anxious and get on with more
 productive things. Turns out I'm 
-[not the only person that](https://github.com/gelstudios/gitfiti) 
+[not the only person](https://github.com/gelstudios/gitfiti) that
 had this idea. But I wanted to see if I can do it on my own. I'm pretty happy
 with the outcome.
